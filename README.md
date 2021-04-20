@@ -1,6 +1,6 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
+![sql.png](EmployeeSQL/images/sql.png)
 
 # Inside of this repository (Student Analysis)
 
@@ -20,7 +20,7 @@ Github sql-challenge folder summary:
   
   * An ERD.png file.  The Entity Relationship Diagram, or a diagram outlining the relationship mapping of the database, pictures below:
 
-  ![ERD.png](ERD.png)
+  ![ERD.png](EmployeeSQL/images/ERD.png)
 
 ## Background
 
@@ -78,7 +78,7 @@ query:
 		select * from answer1;
 
 
-![answer1.png](images/answer1.png)
+![answer1.png](EmployeeSQL/images/answer1.png)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
@@ -94,7 +94,7 @@ query:
 		select * from answer2;
 
 
-![answer2.png](images/answer2.png)
+![answer2.png](EmployeeSQL/images/answer2.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
@@ -111,7 +111,7 @@ query:
 		select * from answer3;
 
 
-![answer3.png](images/answer3.png)
+![answer3.png](EmployeeSQL/images/answer3.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
@@ -128,7 +128,7 @@ query:
 		select * from answer4;
 
 
-![answer4.png](images/answer4.png)
+![answer4.png](EmployeeSQL/images/answer4.png)
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
@@ -142,7 +142,7 @@ query:
 		select * from answer5;
 
 
-![answer5.png](images/answer5.png)
+![answer5.png](EmployeeSQL/images/answer5.png)
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
@@ -160,7 +160,7 @@ query:
 		select * from answer6;
 
 
-![answer6.png](images/answer6.png)
+![answer6.png](EmployeeSQL/images/answer6.png)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
@@ -178,7 +178,7 @@ query:
 		select * from answer7;
 
 
-![answer7.png](images/answer7.png)
+![answer7.png](EmployeeSQL/images/answer7.png)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
@@ -193,7 +193,7 @@ query:
 		select * from answer8;
 
 
-![answer8.png](images/answer8.png)
+![answer8.png](EmployeeSQL/images/answer8.png)
 
 ## Bonus (Optional)
 
