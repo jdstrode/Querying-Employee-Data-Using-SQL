@@ -1,4 +1,4 @@
-# SQL Challenge - Employee Database: Identifying Solutions
+# Simulated SQL Project - Employee Database: Planning, Setting up, SQL Querying
 
 ![sql.png](EmployeeSQL/images/sql.png)
 
