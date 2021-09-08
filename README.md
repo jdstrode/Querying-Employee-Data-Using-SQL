@@ -20,7 +20,7 @@
 
 ## About the Project  
 
-The contents of this repository contain the completed SQL Query's for the simulated SQL Challenge, a part of the Data Science Bootcamp at Northwestern University curriculum.  
+The contents of this repository contain a simulated SQL Challenge, a part of the Data Science Bootcamp at Northwestern University curriculum. It includes setting up an ERD, creating a PostgreSQL database, and writing SQL Queries to answer specific questions.
 
 ## The Scenario  
 
